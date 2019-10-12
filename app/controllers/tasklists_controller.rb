@@ -1,2 +1,0 @@
-class TasklistsController < ApplicationController
-end
